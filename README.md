@@ -1,4 +1,22 @@
 # project1-
 LAMP STACK  IMPLEMENTATION
-![](images/screenshots.png)
+
+<img src="images/updating packages 1.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
