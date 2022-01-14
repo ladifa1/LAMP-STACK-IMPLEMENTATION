@@ -1,2 +1,4 @@
-![](images/Screenshots.png)
-![](images/1.png)
+# PROJECT 1
+## LAMP STACK IMPLEMENTATION
+
+**STEP1: APACHE INSTALLATION** 
